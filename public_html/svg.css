@@ -1,0 +1,12 @@
+#line line {
+    stroke-width:2; 
+    stroke:rgb(0,0,0);
+}
+.owl svg, .owl object {
+    left:129.5px;
+    top:17px;
+    position: relative;
+}
+#last{
+    margin-bottom: 50px;
+}
